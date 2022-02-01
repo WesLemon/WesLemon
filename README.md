@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WesLemon
+- 👀 I’m interested in all things to do with computing. I particularly like programming and software engineering in general.
+- 🌱 I’m currently studying Computer Science in Trinity College, Dublin. 
